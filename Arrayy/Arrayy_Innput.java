@@ -12,6 +12,7 @@ public class Arrayy_Innput {
         }
         Display(arr); // calling the function in main for void type we don't need to use anything we
                       // just call the name
+        sc.close();
     }
 
     public static void Display(int arr[]) { // created a function of name Display in which we pass our array
